@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "status": "DRAFT",
+    "note": "Draft written from general extension-style guidance. Before submission: check every entry against ICAR / a state agricultural university / a Krishi Vigyan Kendra source, fill in 'sources', then set status to REVIEWED. Add 'hi' and 'kn' text only after a fluent speaker has reviewed it."
+  },
+  "entries": {
+    "tomato/early_blight": {
+      "display_name": {
+        "en": "Early blight of tomato"
+      },
+      "keywords": [
+        "blight",
+        "fungal",
+        "fungus",
+        "spots",
+        "leaf",
+        "leaves"
+      ],
+      "what_it_is": {
+        "en": "Early blight is a fungal leaf disease. It causes dark brown spots with ring patterns, usually starting on the older, lower leaves, and it can spread upward in warm, humid weather."
+      },
+      "steps_always": {
+        "en": [
+          "Remove the most affected leaves and destroy them away from the field. Do not compost them.",
+          "Water at the base of the plant in the morning. Avoid wetting the leaves.",
+          "Keep plants spaced and staked so air can move between them.",
+          "Spread mulch on the soil so soil does not splash onto the leaves.",
+          "Check the plants every few days to see whether the spots are spreading."
+        ]
+      },
+      "steps_moderate_or_severe": {
+        "en": [
+          "Ask your local agriculture officer or Krishi Vigyan Kendra which fungicide is approved for tomato in your area, and use it exactly as the product label says."
+        ]
+      },
+      "steps_severe": {
+        "en": [
+          "If many leaves are affected, get advice from the agriculture officer soon, and remove badly affected plants so the disease does not spread."
+        ]
+      },
+      "prevention": {
+        "en": [
+          "In the next seasons, grow crops outside the tomato family in this field (for example cereals or legumes)."
+        ]
+      },
+      "when_to_get_help": {
+        "en": "Contact your local agriculture officer or Krishi Vigyan Kendra if the spots keep spreading after you remove affected leaves, or if you are not sure this is early blight."
+      },
+      "sources": [],
+      "look_for": {
+        "en": "dark brown spots with rings like a target and a yellow edge, usually on the older lower leaves."
+      },
+      "confusable_with": [
+        "tomato/late_blight"
+      ]
+    },
+    "tomato/late_blight": {
+      "display_name": {
+        "en": "Late blight of tomato"
+      },
+      "keywords": [
+        "blight",
+        "fungal",
+        "fungus",
+        "spread",
+        "leaf",
+        "leaves",
+        "wet"
+      ],
+      "what_it_is": {
+        "en": "Late blight is a serious disease that spreads very fast in cool, wet, cloudy weather. It causes large dark, water-soaked patches on leaves and stems, and it can destroy a crop within a few days."
+      },
+      "steps_always": {
+        "en": [
+          "Remove affected leaves and plants and destroy them away from the field. Do not compost them.",
+          "Water at the base of the plant, not over the leaves, and avoid watering late in the day.",
+          "Keep plants spaced so leaves dry quickly after rain or dew.",
+          "Tell your local agriculture officer soon, because late blight can spread quickly to nearby fields."
+        ]
+      },
+      "steps_moderate_or_severe": {
+        "en": [
+          "Ask your local agriculture officer which fungicide is approved for late blight on tomato in your area, and use it exactly as the product label says. Treatment works best when it is started early."
+        ]
+      },
+      "steps_severe": {
+        "en": [
+          "If most plants are affected, get expert advice the same day, and remove and destroy heavily infected plants."
+        ]
+      },
+      "prevention": {
+        "en": [
+          "Plant in a well-drained, airy place, and take extra care to watch your plants during cool, wet spells."
+        ]
+      },
+      "when_to_get_help": {
+        "en": "Contact your local agriculture officer or Krishi Vigyan Kendra as soon as you see these signs, because late blight spreads quickly."
+      },
+      "sources": [],
+      "look_for": {
+        "en": "large, dark, wet-looking patches that grow fast, often with a white fuzzy growth underneath in damp weather, on leaves, stems or fruit."
+      },
+      "confusable_with": [
+        "tomato/early_blight"
+      ]
+    },
+    "tomato/bacterial_spot": {
+      "display_name": {
+        "en": "Bacterial spot of tomato"
+      },
+      "keywords": [
+        "bacterial",
+        "bacteria",
+        "spots",
+        "spot",
+        "leaf",
+        "leaves",
+        "wet"
+      ],
+      "what_it_is": {
+        "en": "Bacterial spot is caused by bacteria. It makes small, dark, greasy-looking spots on leaves and fruit, and it spreads in warm, wet weather and by splashing water."
+      },
+      "steps_always": {
+        "en": [
+          "Remove badly affected leaves and destroy them away from the field.",
+          "Avoid watering over the leaves, and do not work among the plants when they are wet, because this spreads the bacteria.",
+          "Clean tools and hands after working with affected plants.",
+          "Use disease-free seed or seedlings for the next planting."
+        ]
+      },
+      "steps_moderate_or_severe": {
+        "en": [
+          "Ask your local agriculture officer what treatment is approved for bacterial spot on tomato in your area, and follow the product label exactly."
+        ]
+      },
+      "steps_severe": {
+        "en": [
+          "If many plants are affected, get expert advice soon, and remove and destroy badly affected plants."
+        ]
+      },
+      "prevention": {
+        "en": [
+          "In the next seasons, grow crops that are not tomato or pepper in this field."
+        ]
+      },
+      "when_to_get_help": {
+        "en": "Contact your local agriculture officer or Krishi Vigyan Kendra if spots appear on fruit or keep spreading."
+      },
+      "sources": []
+    },
+    "tomato/healthy": {
+      "display_name": {
+        "en": "Healthy tomato plant"
+      },
+      "keywords": [],
+      "what_it_is": {
+        "en": "The leaf in the photo looks healthy."
+      },
+      "steps_always": {
+        "en": [
+          "Keep watering at the base of the plant, not over the leaves.",
+          "Check the leaves every few days for spots, yellowing or curling.",
+          "Keep space between plants and remove weeds so air can move."
+        ]
+      },
+      "steps_moderate_or_severe": {
+        "en": []
+      },
+      "steps_severe": {
+        "en": []
+      },
+      "prevention": {
+        "en": []
+      },
+      "when_to_get_help": {
+        "en": "If you see new spots or the leaves change colour, take another clear photo and check again."
+      },
+      "sources": []
+    }
+  },
+  "generic": {
+    "uncertain": {
+      "title": {
+        "en": "Not sure yet"
+      },
+      "message": {
+        "en": "The photo is not clear enough for a reliable result, so no disease is named."
+      },
+      "steps": {
+        "en": [
+          "Take a new photo of one affected leaf on a plain background, in daylight, with the leaf in focus.",
+          "Try a second affected leaf as well.",
+          "Do not spray anything based on this result.",
+          "If the problem is spreading, show the plant to your local agriculture officer or Krishi Vigyan Kendra."
+        ]
+      }
+    },
+    "not_covered": {
+      "title": {
+        "en": "Not covered yet"
+      },
+      "message": {
+        "en": "This crop or problem is not yet covered by the advice in this prototype."
+      },
+      "steps": {
+        "en": [
+          "Contact your local agriculture officer or Krishi Vigyan Kendra for advice.",
+          "Take clear photos of the affected leaves to show them."
+        ]
+      }
+    }
+  }
+}

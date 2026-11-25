@@ -1,0 +1,7 @@
+transformers
+pillow
+opencv-python-headless
+numpy
+gradio
+# torch and torchvision are installed first from the CPU index (see README):
+#   uv pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
